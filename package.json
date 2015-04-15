@@ -24,7 +24,7 @@
     "css-select": "~1.0.0",
     "entities": "~1.1.1",
     "htmlparser2": "~3.8.1",
-    "dom-serializer": "https://github.com/cheeriojs/dom-serializer/tarball/master",
+    "dom-serializer": "https://github.com/ramakrishnan/dom-serializer/tarball/master",
     "lodash": "^3.2.0"
   },
   "devDependencies": {
